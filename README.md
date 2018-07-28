@@ -15,11 +15,11 @@ Papers Published based on this dataset:
  
 1. S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014.
  
- http://media.salford-systems.com/video/tutorial/2015/targeted_marketing.pdf
+  http://media.salford-systems.com/video/tutorial/2015/targeted_marketing.pdf
  
 2. S. Moro, R. Laureano and P. Cortez. Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology. In P. Novais et al. (Eds.), Proceedings of the European Simulation and Modelling Conference - ESM'2011, pp. 117-121, Guimaraes, Portugal, October, 2011. EUROSIS. 
  
- https://pdfs.semanticscholar.org/a175/aeb08734fd669beaffd3d185a424a6f03b84.pdf
+  https://pdfs.semanticscholar.org/a175/aeb08734fd669beaffd3d185a424a6f03b84.pdf
  
 Data Source: 
  
