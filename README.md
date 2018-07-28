@@ -8,7 +8,7 @@ The data consists of 41,000+ rows of data with 21 attributes (Qualitative and Qu
  
 Conclusions: 
  
-The data set was split into a 80-20 ratio for training and test data sets respectively. The ANN model was then trainied on the training data set.
+The data set was split in 80-20 ratio for training and test data sets respectively. The ANN model was then trainied on the training data set.
 
 The The Artificial Neural Metwork (ANN) model had an accuracy of 88% on the test dataset.
 
